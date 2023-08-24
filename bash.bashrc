@@ -6,6 +6,9 @@ for i in $(seq 7)
 do
 echo -e "\e[1;3"$i"m  \e[1m"
 echo "Hi Win";
+echo "Hi Win";
+echo "Hi Win";
+echo "Hi Win";
 echo "Writing CD and Tool for miner";
 echo "Waiting...." ;
 
